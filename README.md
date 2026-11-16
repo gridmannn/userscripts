@@ -8,6 +8,7 @@ Install [Tampermonkey](https://www.tampermonkey.net/), then click an **Install**
 |---|---|---|
 | Endless STL Pages | Endless-Google-style auto paging for Thingiverse, Printables, MakerWorld, Cults3D, MyMiniFactory and Thangs | [Install](https://raw.githubusercontent.com/gridmannn/userscripts/main/endless-stl-pages.user.js) |
 | Anti-Adblock Remover | Removes anti-adblock overlays and detection on watchmmafull.com, playmate.to, voe.sx and similar video embeds | [Install](https://raw.githubusercontent.com/gridmannn/userscripts/main/anti-adblock-remover.user.js) |
+| YouTube Lyrics | Floating lyrics panel for YouTube and YouTube Music, synced line highlighting with click-to-seek (Alt+L to toggle, lyrics from lrclib.net) | [Install](https://raw.githubusercontent.com/gridmannn/userscripts/main/youtube-lyrics.user.js) |
 
 ## Notes
 
